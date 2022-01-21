@@ -1,4 +1,4 @@
-@media (max-width: 740px) {
+@media (max-width: 46.1875em) {
     #nav {
         display: block;
     }
@@ -62,7 +62,7 @@
 }
 
 
-@media (max-width: 1024px) and (min-width: 740px){
+@media (max-width: 63.9375em) and (min-width: 46.1875em){
     #footer .social a{
         margin: 0 16px;
         font-size: 48px;
